@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SuperBancoImobiliarioDMO</string>
+    <string name="SALDO_INSUFICIENTE">Saldo insuficiente.</string>
+    <string name="btn_M">M</string>
+    <string name="btn_K">K</string>
+    <string name="btn_C">C</string>
+    <string name="btn_I">I</string>
+    <string name="titulo">Calculadora Banco Imobiliário</string>
+    <string name="digitar_valor">Digite um valor</string>
+    <string name="receiver">Receiver</string>
+    <string name="payer">Payer</string>
+    <string name="nome_jogador">Nome do jogador</string>
+    <string name="adicionar_jogador">Adicionar Jogador</string>
+    <string name="numero_de_jogadores">Número de jogadores: </string>
+    <string name="number_error_message">Valor inválido.</string>
+    <string name="informar_jogador">Necessário informar o pagador e/ou recebedor.</string>
+    <string name="valor_menor_999">O valor informado deve ser menor que 999.</string>
+    <string name="maximo_atingido">O número máximo de jogadores já foi atingido.</string>
+    <string name="falha_cancelar_transacao">Não foi possível cancelar a ultima transação.</string>
+    <string name="falha_transacao">Não foi possível realizar a transação.</string>
+</resources>

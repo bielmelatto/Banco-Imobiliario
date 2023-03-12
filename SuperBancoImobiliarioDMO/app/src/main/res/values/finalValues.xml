@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="MAX_JOGADORES">6</integer>
+    <fraction name="SALDO_INICIAL">15000.00</fraction>
+    <integer name="INICIAL_ID">1</integer>
+</resources>
